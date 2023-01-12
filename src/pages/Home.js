@@ -1,10 +1,8 @@
-import react from 'react';
+import react from "react";
 
 class home extends react.Component {
-    render() {
-        return (
-<div>   </div>
-        )
-    }
+  render() {
+    return <div> </div>;
+  }
 }
 export default home;
