@@ -197,10 +197,7 @@ class MainDivs extends react.Component {
               <section>
                 <h2>Contact Information</h2>
                 <h3>
-                  <a
-                    href="../assets/BrianSaaristoResume (1).pdf"
-                    target="_blank"
-                  >
+                  <a href="assets/BrianSaaristoResume.pdf" target="_blank">
                     {" "}
                     Viewable and Downloadable PDF
                   </a>
@@ -237,6 +234,7 @@ class MainDivs extends react.Component {
             </footer>
           </div>
         </div>
+        <div id="root"> </div>
       </body>
     );
   }
