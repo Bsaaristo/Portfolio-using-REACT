@@ -88,7 +88,7 @@ class MainDivs extends react.Component {
                   <p>
                     Install and repair building electrical systems and Take
                     every opportunity to learn about system design, installation
-                    and <strong>code</strong>
+                    and <strong>code </strong>
                     requirement. Arrange wiring, fixtures and conduit boxes in
                     preparation for installation. Crawl into tight spaces, onto
                     ladders and in attics to complete projects.
@@ -234,7 +234,6 @@ class MainDivs extends react.Component {
             </footer>
           </div>
         </div>
-        <div id="root"> </div>
       </body>
     );
   }
