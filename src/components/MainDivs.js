@@ -43,17 +43,7 @@ class MainDivs extends react.Component {
                     <h2>About</h2>
                   </header>
                   <p>
-                    {" "}
-                    I am a <strong>Software Developer</strong> currently
-                    attending <strong>Northwood Technical College</strong> out
-                    of Superior, WI. I enjoy problem-solving and coding and
-                    always strive to bring 100% to the work I do. I have worked
-                    on technologies like Python, MySQL, MicrosoftAccess, HTML5,
-                    CSS, Java, C++ during my studies and career. I have one year{" "}
-                    <strong>experience</strong> which helped me strengthen my
-                    skills with java, HTML and database management. I am
-                    passionate about developing complex applications that solve
-                    real-world problems impacting millions of users.
+
                   </p>
                 </div>
               </div>
@@ -70,7 +60,7 @@ class MainDivs extends react.Component {
                       <strong>Cirrus Aircraft | Duluth, MN</strong>
                     </a>
                   </h3>
-                  <h3>Bond Tech | 07/2019 - 01/2020</h3>
+                  <h3></h3>
                   <p>
                     Read and interpret maintenance manuals, Service bulletins,
                     Schematics and other specifications to determine the
@@ -84,38 +74,19 @@ class MainDivs extends react.Component {
                   <h3>
                     <strong>Phelps Electric | Princeton, KY</strong>
                   </h3>
-                  <h3>Electrician | 11/2020 - 02/2021</h3>
+                  <h3></h3>
                   <p>
-                    Install and repair building electrical systems and Take
-                    every opportunity to learn about system design, installation
-                    and <strong>code </strong>
-                    requirement. Arrange wiring, fixtures and conduit boxes in
-                    preparation for installation. Crawl into tight spaces, onto
-                    ladders and in attics to complete projects.
+
                   </p>
                 </li>
-                <li>
-                  <h3>
-                    <a href="https://lakeassault.com" target="_blank">
-                      <strong>Lake Assault Boats | Superior, WI</strong>
-                    </a>
-                  </h3>
-                  <h3>Marine Technician | 04/2021 - 07/2021</h3>
-                  <p>
-                    Assembling, designing and engineering Force Protection
-                    Medium boats destined for the US Navy. Using precise
-                    measurements, <strong>advanced</strong> wiring diagrams for
-                    installation and QC. Utilizing basic and{" "}
-                    <strong>advanced mathematics.</strong>
-                  </p>
-                </li>
+
                 <li>
                   <h3>
                     <a href="https://revivaltechnology.com/" target="_blank">
                       <strong>Revival Technology | Hybrid</strong>
                     </a>
                   </h3>
-                  <h3>IT Field Technician | 07/2022 -- current</h3>
+                  <h3></h3>
                   <p>
                     Windows Imaging,
                     <strong> Data Migration and Preservation</strong>, ability
